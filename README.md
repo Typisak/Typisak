@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 😐
 
-<!--
-**Typisak/Typisak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an amateur web developer currently studying the web development program hosted by the Mid Sweden University.
 
-Here are some ideas to get you started:
+You should **refrain** from forking any of my projects considering the code quality is miserable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact information
+I do not know why you would want contact me but you can if you want to. (no bot spam please)
+
+* Tel: +46727368002
+* University E-mail: isul2300@student.miun.se
+* Personal E-mail: isak.ullberg04@gmail.com 
+
+### Fun fact
+I used to work as a mailman. 🥶
